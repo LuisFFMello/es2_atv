@@ -1,2 +1,3 @@
 Domínio de Negócio
 ------------------
+    - Papelaria: Estabelecimento especializado em artigos escolares e de escritório.
