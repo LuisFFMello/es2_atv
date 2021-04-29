@@ -6,4 +6,8 @@ Problema/Oportunidade
 
     -Porque não usar um software web ou apps que já existem? ---> O Cliente não ficou satisfeito com as aplicações existentes. Ele quer algo sem cores chamativas ou adornos, apenas quer colocar os valores e obter o resultado.
 
-    
+
+Requisitos
+----------
+    Histórias de usuário
+    HU001 - Eu, balconista, desejo informar qual formato a ser recortado [quadrado, triangulo retângulo] e escolher entre resultado de área ou perímetro.
