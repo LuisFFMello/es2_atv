@@ -7,6 +7,18 @@ Problema/Oportunidade
     -Porque não usar um software web ou apps que já existem? ---> O Cliente não ficou satisfeito com as aplicações existentes. Ele quer algo sem cores chamativas ou adornos, apenas quer colocar os valores e obter o resultado.
 
 
+Regras de Negócio
+----------
+RN001 - Fórmula para cálculo da área de uma circunferência.
+A fórmula utilizada deverá ser: PI.R^2;
+RN002 - Fórmula para cálculo do perímetro de uma circunferência.
+A fórmula utilizada deverá ser: 2.PI.R;
+RN003 - Fórmula para cálculo da área de um retângulo.
+A fórmula utilizada deverá ser: BASE.ALTURA;
+RN004 - Fórmula para cálculo do perímetro de um retângulo.
+A fórmula utilizada deverá ser: 2.(BASE+ALTURA).
+
+
 Requisitos
 ----------
     Histórias de usuário
