@@ -5,6 +5,8 @@
  */
 package es2atv;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author LUISFELIPEFERREIRADE
@@ -15,7 +17,12 @@ public class Es2atv {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic her
+        Circunferencia c = new Circunferencia(10.5);
+        Retangulo r = new Retangulo(20,40);
+        JOptionPane.showMessageDialog(null, "CIRCUNFERENCIA\n\n\nArea: "+c.getArea()+"\nPerímetro: "+c.getPerimetro());
+        JOptionPane.showMessageDialog(null, "RETANGULO\n\n\nArea: "+r.getArea()+"\nPerímetro: "+r.getPerimetro());
+        System.out.println(c.getArea() + "  "+ c.getPerimetro());
+        System.out.println(r.getArea()+"  "+r.getPerimetro());
     }
     
 }
