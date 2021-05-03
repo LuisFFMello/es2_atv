@@ -19,11 +19,11 @@ public class Circunferencia {
     }
 
     void calcularArea(){
-        this.setArea(Math.PI * Math.pow(getRaio(), 2));
+        this.setArea(Math.PI * Math.pow(this.getRaio(), 2));
     }
 
     void calcularPerimetro(){
-        this.setPerimetro(2*Math.PI * getRaio());
+        this.setPerimetro(2*Math.PI * this.getRaio());
     }
 
     public double getRaio(){
