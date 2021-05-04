@@ -2,7 +2,9 @@ Domínio de Negócio
 ------------------
     - Papelaria: Estabelecimento regulamentado especializado em artigos escolares e de escritório.
 Problema/Oportunidade
-    - Uma papelaria está com baixa satisfação no atendimento do balconista. A pessoa encarregada do cargo de balconista tem uma alta demanda de solicitações de recortes em folhas diversas, e necessita informar o perímetro e a área do material recortado para o caixa realizar a devida cobrança, pois o preço varia de cm² e alguns casos, o perímetro é aplicado na cobrança. Hoje, o cálculo é feito de cabeça por conta da balconista, e isso implica em imprecisão dos valores, bem como uma insatisfação do cliente que precisa esperar por mais tempo para que o balconista verifique o resultado.
+ 
+	- A papelaria está com alto índice de erros nas cobranças de pedidos de recortes, a pessoa responsável pelo atendimento dos clientes tem uma grande demanda de pedidos de recorte em tamanhos e formas diversas. Dependendo do tipo de corte o preço é calculado pelo perímetro ou área da forma.
+	Todo o cálculo e feito manualmente pelo atendente, isso tem ocasionado muitos erros, para mais e para menos, gerando insatisfação dos clientes e prejuízos para a papelaria.
 
     -Porque não usar um software web ou apps que já existem? ---> O Cliente não ficou satisfeito com as aplicações existentes. Ele quer algo sem cores chamativas ou adornos, apenas quer colocar os valores e obter o resultado.
 
